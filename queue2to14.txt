@@ -420,7 +420,7 @@ enqueue 746
 enqueue -367
 enqueue 492
 enqueue 876
-peek
+front
 enqueue -247
 enqueue -329
 enqueue 75
@@ -10110,7 +10110,7 @@ enqueue 332
 enqueue -143
 enqueue -359
 enqueue 61
-peek
+front
 enqueue -712
 dequeue
 enqueue 13
@@ -10331,7 +10331,7 @@ enqueue 154
 enqueue 283
 enqueue 798
 enqueue -112
-peek
+front
 dequeue
 enqueue 157
 enqueue -432
@@ -11399,7 +11399,7 @@ dequeue
 enqueue -731
 enqueue -157
 enqueue -771
-peek
+front
 enqueue 254
 enqueue -994
 dequeue
@@ -11888,7 +11888,7 @@ enqueue -720
 enqueue -449
 enqueue 481
 dequeue
-peek
+front
 dequeue
 enqueue -150
 enqueue -947
@@ -13259,7 +13259,7 @@ enqueue -180
 dequeue
 enqueue 153
 enqueue 64
-peek
+front
 dequeue
 enqueue -751
 dequeue
@@ -13480,7 +13480,7 @@ enqueue 177
 enqueue 777
 enqueue 589
 enqueue -430
-peek
+front
 dequeue
 enqueue 399
 enqueue 728
